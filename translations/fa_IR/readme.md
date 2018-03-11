@@ -70,7 +70,7 @@
 * [繁體中文](https://github.com/rwaldron/idiomatic.js/tree/master/translations/zh_TW)  
 * [Indonesian](https://github.com/rwaldron/idiomatic.js/tree/master/translations/id_ID)  
 * [Greek](https://github.com/rwaldron/idiomatic.js/tree/master/translations/gr_GR)  
-* [Greek](https://github.com/rwaldron/idiomatic.js/tree/master/translations/fa_IR)  
+* [فارسی](https://github.com/rwaldron/idiomatic.js/tree/master/translations/fa_IR)  
 
 ## مهم، مطالب مفید و غیر مرتبط
 
